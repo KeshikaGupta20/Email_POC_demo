@@ -1,0 +1,27 @@
+[
+    {
+      "from": "keshika.gupta@mobcoder.com",
+      "to": ["keshikagupta066@gmail.com"],
+      "subject": "Test Email 1",
+      "body": "This is a test email sent from Go."
+    },
+    {
+      "from": "keshika.gupta@mobcoder.com",
+      "to": ["keshikagupta20@gmail.com"],
+      "subject": "Test Email 2",
+      "body": "This is another test email sent from Go."
+    },
+    {
+        "from": "keshika.gupta@mobcoder.com",
+        "to": ["aditya.rawat@mobcoder.com"],
+        "subject": "Test Email 3",
+        "body": "This is another test email sent from Go."
+    },
+    {
+        "from": "keshika.gupta@mobcoder.com",
+        "to": ["shashank.jaiswal@mobcoder.com"],
+        "subject": "Test Email 4",
+        "body": "This is another test email sent from Go."
+    }
+  ]
+  
